@@ -1,6 +1,6 @@
 # Cuarta tarea de APA 2023: Generación de números aleatorios
 
-## Nom i cognoms
+## Pau Reyes Boix
 
 ## Generación de números aleatorios usando el algoritmo LGC
 
